@@ -670,7 +670,7 @@ aside.clients img {
 section#contact {
     background-color: #222;
     /*background-image: url(../img/map-image.png);*/
-    background-color: grey;
+    background-color: #FF9933;
     background-position: center;
     background-repeat: no-repeat;
 }
