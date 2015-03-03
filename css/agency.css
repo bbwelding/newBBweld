@@ -42,7 +42,9 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503;
+    color: #fe7203;
+     /*#fec503; */
+ 
 }
 
 h1,
@@ -74,7 +76,8 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
+    background-color: #7203fe;
+    /* #fed136;*/
 }
 
 .btn-primary:hover,
@@ -82,9 +85,11 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #f6bf01;
+    border-color: #7203fe;
+   /* #f6bf01;*/
     color: #fff;
-    background-color: #fec503;
+    background-color: #7203fe;
+   /* #fec503;*/
 }
 
 .btn-primary:active,
@@ -117,6 +122,7 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
+/* main button more infomration*/
 .btn-xl {
     padding: 20px 40px;
     border-color: #fed136;
@@ -161,7 +167,7 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
     border-color: #fed136;
-    background-color: #fed136;
+    background-color:#7203fe;
 }
 
 .btn-xl .badge {
@@ -174,9 +180,14 @@ fieldset[disabled] .btn-xl.active {
     background-color: #222;
 }
 
+
+/* left top Logo */
+/* left top Logo */
+/* left top Logo */
+
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #fed136;
+    color: #fec503;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -184,6 +195,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
     color: #fec503;
+
 }
 
 .navbar-default .navbar-collapse {
@@ -212,16 +224,20 @@ fieldset[disabled] .btn-xl.active {
     color: #fff;
 }
 
+
+/* NAV toglle color over*/
+
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
     color: #fed136;
 }
 
+/* nav background color when down */
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #fed136;
+    background-color:  #7203fe;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -265,7 +281,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/weld1.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
